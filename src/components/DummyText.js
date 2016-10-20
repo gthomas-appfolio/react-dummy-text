@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import './DummyText.scss';
+import './DummyText.css';
 
 export default class DummyText extends Component {
   constructor(props) {
